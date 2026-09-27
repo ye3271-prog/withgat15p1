@@ -1,0 +1,8 @@
+{
+  "name": "냉장고를 부탁해! 식품 보관은 어떻게?",
+  "description": "모둠별로 함께 배우는 냉장고 식품 보관 교육 게임: \n1단계 식품 보관의 오류 찾기\n2단계 장보기 후 올바른 식품 보관 스피드 챌린지!",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
